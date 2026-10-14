@@ -1,0 +1,25 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment secrets (NEVER commit this!)
+.env
+
+# Application databases & logs
+*.db
+*.sqlite3
+*.log
+
+# Testing & IDE caches
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/

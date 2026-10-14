@@ -1,0 +1,20 @@
+# Core Web UI
+streamlit>=1.35.0
+
+# Google Gemini Official SDK
+google-genai>=1.0.0
+
+# PDF Text Extraction
+pdfplumber>=0.11.0
+
+# Data Validation and Structured Output Models
+pydantic>=2.7.0
+
+# Environment Variables Management
+python-dotenv>=1.0.1
+
+# Testing Framework
+pytest>=8.2.0
+
+# Optional MongoDB Storage Backend
+pymongo>=4.6.0
